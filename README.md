@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @issacleral
-- 👀 I’m interested in develop
+- 👀 I’m interested in Full Stack
 - 🌱 I’m currently learning DAM
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me rodrigosalvatierracalla@gmail.com
