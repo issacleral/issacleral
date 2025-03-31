@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @issacleral
 - 👀 I’m interested in develop
-- 🌱 I’m currently learning dam
-- 💞️ I’m looking to collaborate on AWS
+- 🌱 I’m currently learning DAM
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me rodrigosalvatierracalla@gmail.com
 - 😄 Pronouns: happy
 - ⚡ Fun fact: games
