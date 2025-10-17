@@ -16,7 +16,7 @@
 - 🎮 Fanático de los **videojuegos** y el mundo gamer.  
 - 🎧 Escucho música mientras trabajo o estudio, siempre acompañado de mis auriculares.  
 - 🍎 Me gustan los productos **Apple** y todo lo relacionado con la innovación móvil.  
-- 🌌 Apasionado por lo **paranormal**y las **conspiraciones** y el universo.
+- 🌌 Apasionado por lo **paranormal** y las **conspiraciones** y el universo.
 
 ---
 
