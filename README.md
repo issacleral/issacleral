@@ -1,15 +1,3 @@
-- 👋 Hi, I’m @issacleral
-- 👀 I’m interested in Full Stack
-- 🌱 I’m currently learning DAM
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me rodrigosalvatierracalla@gmail.com
-- 😄 Pronouns: happy
-- ⚡ Fun fact: games
-<!--
-   🌟 README de presentación de issac_leral
-   Estilo moderno y limpio
--->
-
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#ff3c3c;">issac_leral</span></h1>
 
 <p align="center">
