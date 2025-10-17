@@ -10,7 +10,7 @@
 
 - 💡 Me gusta aprender cosas nuevas sobre **tecnología**, **programación** y **diseño**.  
 - 🎮 Apasionado por los **videojuegos** y todo el mundo gamer.  
-- 🎧 Escucho música mientras trabajo, estudio o programo.  
+- 🎧 Escucho música mientras estudio y programo.  
 - 🍎 Me encantan los dispositivos **Apple** y la innovación móvil.  
 - 🌌 Fascinado por el **espacio**, las **galaxias** y el universo.  
 
