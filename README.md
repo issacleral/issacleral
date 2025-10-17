@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp3952673.png" width="50%" alt="Banner issac_leral">
+  <img src="https://wallpapercave.com/wp/wp3952673.png" width="50%" height="50" alt="Banner issac_leral">
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#ff3c3c;">issac_leral</span></h1>
@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/o7bQZ3S.gif" width="300px" alt="galaxy animation">
+    <!--<img src="https://i.imgur.com/o7bQZ3S.gif" width="300px" alt="galaxy animation"> -->
 </p>
 
 ---
