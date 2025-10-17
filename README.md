@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://i.imgur.com/hR3iFkb.png](https://wallpapercave.com/desktop-lil-uzi-vert-wallpapers" width="100%" alt="Banner issac_leral - galaxia, rojo, blanco y negro">
+  <img src="https://wallpapercave.com/desktop-lil-uzi-vert-wallpapers" width="100%" alt="Banner issac_leral - galaxia, rojo, blanco y negro">
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#ff3c3c;">issac_leral</span></h1>
