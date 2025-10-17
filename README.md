@@ -1,8 +1,3 @@
-<!--
-   🌌 README de presentación de issac_leral
-   Estilo moderno con banner galáctico
--->
-
 <p align="center">
   <img src="https://wallpapercave.com/wp/wp3952673.png" width="2560px" height="1440px" alt="Banner issac_leral">
 </p>
