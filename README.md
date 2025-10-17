@@ -1,3 +1,12 @@
+<!--
+   🌌 README de presentación de issac_leral
+   Estilo moderno con banner galáctico
+-->
+
+<p align="center">
+  <img src="https://i.imgur.com/hR3iFkb.png" width="100%" alt="Banner issac_leral - galaxia, rojo, blanco y negro">
+</p>
+
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#ff3c3c;">issac_leral</span></h1>
 
 <p align="center">
@@ -8,11 +17,11 @@
 
 ## 🚀 Sobre mí
 
-- 💡 Me gusta aprender cosas nuevas sobre **tecnología**, **programación** y **diseño**.  
-- 🎮 Apasionado por los **videojuegos** y todo el mundo gamer.  
-- 🎧 Escucho música mientras estudio y programo.  
-- 🍎 Me encantan los dispositivos **Apple** y la innovación móvil.  
-- 🌌 Fascinado por el **espacio**, las **galaxias** y el universo.  
+- 💡 Me encanta aprender cosas nuevas sobre **tecnología**, **programación** y **diseño**.  
+- 🎮 Fanático de los **videojuegos** y el mundo gamer.  
+- 🎧 Escucho música mientras trabajo o estudio, siempre acompañado de mis auriculares.  
+- 🍎 Me gustan los productos **Apple** y todo lo relacionado con la innovación móvil.  
+- 🌌 Apasionado por el **espacio**, las **galaxias** y el universo.
 
 ---
 
@@ -24,22 +33,22 @@
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Mis objetivos
 
 - 🌱 Seguir mejorando mis habilidades en **programación**.  
-- 🧩 Crear proyectos **sencillos, funcionales y fáciles de entender**.  
-- 🌍 Compartir lo que aprendo y crecer junto a la comunidad.  
+- 🧩 Crear proyectos **útiles, claros y visualmente atractivos**.  
+- 🌍 Compartir lo que aprendo con otros desarrolladores.  
 
 ---
 
 ## 📫 Conéctate conmigo
 
 <p align="center">
-  💬 Encuéntrame como <strong>issac_leral</strong> en redes y plataformas.  
+  💬 Encuéntrame como <strong>issac_leral</strong> en redes sociales y plataformas de desarrollo.  
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/o7bQZ3S.gif" width="300px" alt="galaxy banner">
+  <img src="https://i.imgur.com/o7bQZ3S.gif" width="300px" alt="galaxy animation">
 </p>
 
 ---
@@ -47,8 +56,3 @@
 <p align="center">
   ✨ “Sigue aprendiendo, sigue creando.” ✨
 </p>
-
-<!---
-issacleral/issacleral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
