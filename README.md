@@ -23,7 +23,7 @@
 ## 🧰 Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,python,angular,nodejs,js,typescript,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=kotlin,python,angular,nodejs,js,typescript,html,css,git,github,vscode,unity" />
 </p>
 
 ---
