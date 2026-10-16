@@ -5,7 +5,7 @@
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#ff3c3c;">issac_leral</span></h1>
 
 <p align="center">
-  💻 Desarrollador en formación | 🎮 Gamer | 🎧 Amante de la música y la tecnología
+  💻 Desarrollo de software con Java, web e IA | 🎮 Mods y proyectos de videojuegos | 🎧 Tecnología y música
 </p>
 
 <p align="center">
